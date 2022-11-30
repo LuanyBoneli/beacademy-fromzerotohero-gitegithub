@@ -15,3 +15,4 @@ Comandos vistos nas aulas de git
 |git add . | move todas as alterações de untracked para staged, prontas para o commit |
 |git rm --cached |remove uma alteração de staged para untracked |
 |git commit -m | Grava alterações no repositório |
+|git log | mostra informações sobre os commits criados|
