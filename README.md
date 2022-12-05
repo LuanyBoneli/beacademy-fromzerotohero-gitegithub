@@ -1,4 +1,4 @@
-# beacademy-devstart-gitegithub
+# beacademy-fromzerotohero-gitegithub
 
 # Comandos do Git
 
